@@ -1,0 +1,27 @@
+{
+  "name": "hhc_api",
+  "version": "1.0.0",
+  "description": "RESTful API for HHC",
+  "main": "res/app.js",
+  "scripts": {
+    "test": "test",
+    "serve": "nodemon res/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlaboll/hhc_api.git"
+  },
+  "author": "jlaboll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlaboll/hhc_api/issues"
+  },
+  "homepage": "https://github.com/jlaboll/hhc_api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
