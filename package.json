@@ -19,7 +19,8 @@
   "homepage": "https://github.com/jlaboll/hhc_api#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "pg": "^8.7.3"
+    "pg": "^8.7.3",
+    "basic-auth": "^2.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
